@@ -1,0 +1,14 @@
+{
+	"name": "NutriconsultorOnline/zerobounce-php",
+	"type": "library",
+	"description": "This is a PHP wrapper class for the ZeroBounce API",
+	"homepage": "https://github.com/NutriconsultorOnline/zerobounce-php",
+	"require": {
+		"php": ">=5.0.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"ZeroBounceAPI": ""
+		}
+	}
+}
