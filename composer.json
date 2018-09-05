@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "This is a PHP wrapper class for the ZeroBounce API",
 	"homepage": "https://github.com/NutriconsultorOnline/zerobounce-php",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"require": {
 		"php": ">=5.0.0"
 	},
